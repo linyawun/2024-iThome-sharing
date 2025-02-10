@@ -1,7 +1,7 @@
 # 2024 iThome 鐵人賽 參賽心得分享 Slide
 > This project is for the Tech Book Community Small Talk, sharing experiences from the 2024 iThome Ironman competition. It briefly covers the motivation and process of participating.
 
-- [Live Demo]()
+- [Live Demo](https://linyawun.github.io/2024-iThome-sharing/1)
 
 ## Installation
 The following will guide you on how to install this project on your computer.
