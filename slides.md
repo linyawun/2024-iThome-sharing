@@ -126,7 +126,7 @@ layout: intro
     - 囤稿目標：2 天至少 1 篇
 - 工具
   - 寫作：HackMD、ChatGPT
-  - 製圖：PowerPoint 🤣
+  - 製圖：PowerPoint
 - 參考厲害大大的文章：[Kyle Mo](https://ithelp.ithome.com.tw/users/20113277/profile)、[PJ](https://ithelp.ithome.com.tw/users/20103315/profile)、[Summer](https://www.cythilya.tw/)、[huli](https://blog.huli.tw/)、[CodeFarmer](https://www.codefarmer.tw/)...還有很多大大!
 
 <div class='note-block'>
@@ -148,13 +148,13 @@ layout: intro
 
 ---
 
-# 困難與糾結
+# 困難與糾結 <span>😵‍💫</span>
 
 - 書的內容太硬了，看不懂
 - 主題太常見
 - 擔心敘述脈絡不佳、文筆不足
 - 開賽前根本還沒讀完書、擔心深度不夠
-- 每天都好累，我是誰我在哪
+- 每天都想把主題改成《JavaScript 設計模式：從入門到放棄》
 
 ---
 
